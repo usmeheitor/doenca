@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+body {
+    background: #000000cb;
+}
+
+.botaozim {
+    background-color: #2b54b3;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 16rem;
+    border-radius: 0.3rem;
+    font-size: 2rem;
+    font-family: 'Tilt Warp';
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.botaozim:hover {
+    background-color: #004cff;
+    transition: 0.2s;
+}
